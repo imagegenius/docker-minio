@@ -1,0 +1,29 @@
+---
+
+# jenkins variables
+project_name: docker-minio
+external_type: github_stable
+release_type: stable
+release_tag: latest
+ig_branch: main
+repo_vars:
+  - EXT_GIT_BRANCH = 'master'
+  - EXT_USER = 'minio'
+  - EXT_REPO = 'minio'
+  - BUILD_VERSION_ARG = 'MINIO_VERSION'
+  - IG_USER = 'imagegenius'
+  - IG_REPO = 'docker-minio'
+  - CONTAINER_NAME = 'minio'
+  - DOCKERHUB_IMAGE = 'imagegenius/minio'
+  - DEV_DOCKERHUB_IMAGE = 'igdev/minio'
+  - PR_DOCKERHUB_IMAGE = 'igpipepr/minio'
+  - DIST_IMAGE = 'alpine'
+  - MULTIARCH = 'false'
+  - CI = 'true'
+  - CI_WEB = 'true'
+  - CI_PORT = '9001'
+  - CI_SSL = 'false'
+  - CI_DELAY = '30'
+  - CI_DOCKERENV = ''
+  - CI_AUTH = ''
+  - CI_WEBPATH = ''
