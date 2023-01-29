@@ -25,7 +25,7 @@ pipeline {
     DEV_DOCKERHUB_IMAGE = 'igdev/minio'
     PR_DOCKERHUB_IMAGE = 'igpipepr/minio'
     DIST_IMAGE = 'alpine'
-    MULTIARCH = 'false'
+    MULTIARCH = 'true'
     CI = 'true'
     CI_WEB = 'true'
     CI_PORT = '9001'
