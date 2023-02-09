@@ -4,8 +4,6 @@
 
 [![GitHub Release](https://img.shields.io/github/release/imagegenius/docker-minio.svg?color=007EC6&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/imagegenius/docker-minio/releases)
 [![GitHub Package Repository](https://shields.io/badge/GitHub%20Package-blue?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/imagegenius/docker-minio/packages)
-[![Docker Hub](https://shields.io/badge/Docker%20Hub-blue?logo=docker&logoColor=ffffff&style=for-the-badge)](https://hub.docker.com/r/imagegenius/minio)
-![Image Size](https://img.shields.io/docker/image-size/imagegenius/minio/latest.svg?color=007EC6&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=docker)
 [![Jenkins Build](https://img.shields.io/jenkins/build?labelColor=555555&logoColor=ffffff&style=for-the-badge&jobUrl=https%3A%2F%2Fci.imagegenius.io%2Fjob%2FDocker-Pipeline-Builders%2Fjob%2Fdocker-minio%2Fjob%2Fmain%2F&logo=jenkins)](https://ci.imagegenius.io/job/Docker-Pipeline-Builders/job/docker-minio/job/main/)
 [![IG CI](https://img.shields.io/badge/dynamic/yaml?color=007EC6&labelColor=555555&logoColor=ffffff&style=for-the-badge&label=CI&query=CI&url=https%3A%2F%2Fci-tests.imagegenius.io%2Fminio%2Flatest-main%2Fci-status.yml)](https://ci-tests.imagegenius.io/imagegenius/minio/latest-main/index.html)
 
