@@ -23,6 +23,7 @@ This image supports the following architectures:
 | :----: | :----: | ---- |
 | x86-64 | ✅ | amd64-\<version tag\> |
 | arm64 | ✅ | arm64v8-\<version tag\> |
+| armhf | ❌ | |
 
 ## Version Tags
 
@@ -31,7 +32,6 @@ This image offers different versions via tags. Be cautious when using unstable o
 | Tag | Available | Description |
 | :----: | :----: |--- |
 | latest | ✅ | Latest MinIO release with an Alpine Base. |
-
 ## Application Setup
 
 The WebUI can be found at `http://your-ip:9001`. Login with the username and password specified in the `MINIO_ROOT_USER` and `MINIO_ROOT_PASSWORD` variables.
@@ -52,7 +52,7 @@ services:
     environment:
       - PUID=1000
       - PGID=1000
-      - TZ=Australia/Melbourne
+      - TZ=Etc/UTC
       - MINIO_ROOT_USER=minioadmin
       - MINIO_ROOT_PASSWORD=minioadmin
     volumes:
@@ -70,7 +70,7 @@ docker run -d \
   --name=minio \
   -e PUID=1000 \
   -e PGID=1000 \
-  -e TZ=Australia/Melbourne \
+  -e TZ=Etc/UTC \
   -e MINIO_ROOT_USER=minioadmin \
   -e MINIO_ROOT_PASSWORD=minioadmin \
   -p 9001:9001 \
@@ -78,9 +78,10 @@ docker run -d \
   -v path_to_appdata:/config \
   --restart unless-stopped \
   ghcr.io/imagegenius/minio:latest
+
 ```
 
-## Container Variables
+## Variables
 
 To configure the container, pass variables at runtime using the format `<external>:<internal>`. For instance, `-p 8080:80` exposes port `80` inside the container, making it accessible outside the container via the host's IP on port `8080`.
 
@@ -90,7 +91,7 @@ To configure the container, pass variables at runtime using the format `<externa
 | `-p 9000` | API Port |
 | `-e PUID=1000` | for UserID - see below for explanation |
 | `-e PGID=1000` | for GroupID - see below for explanation |
-| `-e TZ=Australia/Melbourne` | Specify a timezone to use, eg. Australia/Melbourne |
+| `-e TZ=Etc/UTC` | specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List). |
 | `-e MINIO_ROOT_USER=minioadmin` | Specify the root username for MinIO |
 | `-e MINIO_ROOT_PASSWORD=minioadmin` | Specify the root password for MinIO |
 | `-v /config` | Appdata/Bucket Path |
