@@ -135,4 +135,5 @@ Instructions for updating containers:
 
 ## Versions
 
-* **01.29.23:** - Initial release.
+* **21.03.23:** - Add service checks
+* **29.01.23:** - Initial release.
