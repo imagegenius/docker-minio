@@ -1,7 +1,8 @@
 #!/usr/bin/with-contenv bash
 
-exec s6-setuidgid abc \
-	/app/minio \
-	server \
-	/config \
-	--console-address ":9001"
+exec \
+    s6-notifyoncheck -d -n 300 -w 1000 -c "nc -z 127.0.0.1 9001" \
+        s6-setuidgid abc /app/minio \
+            server \
+            /config \
+            --console-address ":9001"
