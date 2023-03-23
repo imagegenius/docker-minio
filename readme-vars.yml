@@ -4,7 +4,7 @@
 project_name: minio
 project_url: "https://min.io/"
 project_logo: "https://raw.githubusercontent.com/minio/minio/master/.github/logo.svg"
-project_blurb: "[{{ project_name|capitalize }}]({{ project_url }}) is a High Performance Object Storage released under GNU Affero General Public License v3.0. It is API compatible with Amazon S3 cloud storage service. Use MinIO to build high performance infrastructure for machine learning, analytics and application data workloads."
+project_blurb: "MinIO is a High Performance Object Storage released under GNU Affero General Public License v3.0. It is API compatible with Amazon S3 cloud storage service. Use MinIO to build high performance infrastructure for machine learning, analytics and application data workloads."
 project_github_repo_url: "https://github.com/imagegenius/docker-{{ project_name }}"
 
 # supported architectures
