@@ -7,9 +7,6 @@ ARG MINIO_VERSION
 LABEL build_version="ImageGenius Version:- ${VERSION} Build-date:- ${BUILD_DATE}"
 LABEL maintainer="hydazz"
 
-# environment settings
-ENV HOME="/root"
-
 RUN \
   echo "**** install build packages ****" && \
   apk add --no-cache --virtual=build-dependencies \
@@ -33,7 +30,7 @@ RUN \
   make install && \
   mv \
     /root/go/bin/minio \
-    /app/minio && \
+    /usr/local/bin/minio && \
   echo "**** cleanup ****" && \
   apk del --purge \
     build-dependencies && \
@@ -41,9 +38,6 @@ RUN \
     /tmp/* \
     /root/.cache \
     /root/go
-
-# store .minio in /config
-ENV HOME="/config"
 
 # copy local files
 COPY root/ /
