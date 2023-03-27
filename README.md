@@ -25,13 +25,6 @@ This image supports the following architectures:
 | arm64 | ✅ | arm64v8-\<version tag\> |
 | armhf | ❌ | |
 
-## Version Tags
-
-This image offers different versions via tags. Be cautious when using unstable or development tags, and read their descriptions carefully.
-
-| Tag | Available | Description |
-| :----: | :----: |--- |
-| latest | ✅ | Latest MinIO release with an Alpine Base. |
 ## Application Setup
 
 The WebUI can be found at `http://your-ip:9001`. Login with the username and password specified in the `MINIO_ROOT_USER` and `MINIO_ROOT_PASSWORD` variables.
