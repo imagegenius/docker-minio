@@ -82,9 +82,9 @@ To configure the container, pass variables at runtime using the format `<externa
 | :----: | --- |
 | `-p 9001` | WebUI Port |
 | `-p 9000` | API Port |
-| `-e PUID=1000` | for UserID - see below for explanation |
-| `-e PGID=1000` | for GroupID - see below for explanation |
-| `-e TZ=Etc/UTC` | specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List). |
+| `-e PUID=1000` | UID for permissions - see below for explanation |
+| `-e PGID=1000` | GID for permissions - see below for explanation |
+| `-e TZ=Etc/UTC` | Specify a timezone to use, see this [list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List). |
 | `-e MINIO_ROOT_USER=minioadmin` | Specify the root username for MinIO |
 | `-e MINIO_ROOT_PASSWORD=minioadmin` | Specify the root password for MinIO |
 | `-v /config` | Appdata/Bucket Path |
