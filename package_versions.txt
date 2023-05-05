@@ -65,8 +65,8 @@ github.com/go-openapi/errors                        v0.20.3                     
 github.com/go-openapi/jsonpointer                   v0.19.6                             go-module  
 github.com/go-openapi/jsonreference                 v0.20.2                             go-module  
 github.com/go-openapi/loads                         v0.21.2                             go-module  
-github.com/go-openapi/runtime                       v0.25.0                             go-module  
-github.com/go-openapi/spec                          v0.20.8                             go-module  
+github.com/go-openapi/runtime                       v0.26.0                             go-module  
+github.com/go-openapi/spec                          v0.20.9                             go-module  
 github.com/go-openapi/strfmt                        v0.21.7                             go-module  
 github.com/go-openapi/swag                          v0.22.3                             go-module  
 github.com/go-openapi/validate                      v0.22.1                             go-module  
@@ -100,7 +100,7 @@ github.com/jessevdk/go-flags                        v1.5.0                      
 github.com/josharian/intern                         v1.0.0                              go-module  
 github.com/json-iterator/go                         v1.1.12                             go-module  
 github.com/juju/ratelimit                           v1.0.2                              go-module  
-github.com/klauspost/compress                       v1.16.4                             go-module  
+github.com/klauspost/compress                       v1.16.5                             go-module  
 github.com/klauspost/cpuid/v2                       v2.2.4                              go-module  
 github.com/klauspost/filepathx                      v1.1.1                              go-module  
 github.com/klauspost/pgzip                          v1.2.5                              go-module  
@@ -126,14 +126,14 @@ github.com/matttproud/golang_protobuf_extensions    v1.0.4                      
 github.com/miekg/dns                                v1.1.53                             go-module  
 github.com/minio/cli                                v1.24.2                             go-module  
 github.com/minio/colorjson                          v1.0.4                              go-module  
-github.com/minio/console                            v0.26.3                             go-module  
+github.com/minio/console                            v0.26.4                             go-module  
 github.com/minio/csvparser                          v1.0.0                              go-module  
 github.com/minio/dperf                              v0.4.2                              go-module  
 github.com/minio/filepath                           v1.0.0                              go-module  
 github.com/minio/highwayhash                        v1.0.2                              go-module  
 github.com/minio/kes-go                             v0.1.0                              go-module  
 github.com/minio/madmin-go/v2                       v2.1.0                              go-module  
-github.com/minio/mc                                 v0.0.0-20230411170328-83336dfab325  go-module  
+github.com/minio/mc                                 v0.0.0-20230421183052-0da22db3af01  go-module  
 github.com/minio/md5-simd                           v1.1.2                              go-module  
 github.com/minio/minio                              (devel)                             go-module  
 github.com/minio/minio-go/v7                        v7.0.52                             go-module  
@@ -184,7 +184,7 @@ github.com/rivo/uniseg                              v0.4.4                      
 github.com/rjeczalik/notify                         v0.9.3                              go-module  
 github.com/rs/cors                                  v1.8.3                              go-module  
 github.com/rs/dnscache                              v0.0.0-20211102005908-e0241e321417  go-module  
-github.com/rs/xid                                   v1.4.0                              go-module  
+github.com/rs/xid                                   v1.5.0                              go-module  
 github.com/secure-io/sio-go                         v0.3.1                              go-module  
 github.com/shirou/gopsutil/v3                       v3.23.3                             go-module  
 github.com/tidwall/gjson                            v1.14.4                             go-module  
