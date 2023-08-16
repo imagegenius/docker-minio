@@ -126,14 +126,14 @@ github.com/matttproud/golang_protobuf_extensions    v1.0.4                      
 github.com/miekg/dns                                v1.1.55                               go-module  
 github.com/minio/cli                                v1.24.2                               go-module  
 github.com/minio/colorjson                          v1.0.5                                go-module  
-github.com/minio/console                            v0.35.1                               go-module  
+github.com/minio/console                            v0.37.0                               go-module  
 github.com/minio/csvparser                          v1.0.0                                go-module  
 github.com/minio/dnscache                           v0.1.1                                go-module  
 github.com/minio/dperf                              v0.5.0                                go-module  
 github.com/minio/filepath                           v1.0.0                                go-module  
 github.com/minio/highwayhash                        v1.0.2                                go-module  
 github.com/minio/kes-go                             v0.1.0                                go-module  
-github.com/minio/madmin-go/v3                       v3.0.9                                go-module  
+github.com/minio/madmin-go/v3                       v3.0.11                               go-module  
 github.com/minio/mc                                 v0.0.0-20230726035150-6b8680a2f7ca    go-module  
 github.com/minio/md5-simd                           v1.1.2                                go-module  
 github.com/minio/minio                              (devel)                               go-module  
