@@ -132,7 +132,7 @@ github.com/minio/dperf                              v0.5.0                      
 github.com/minio/filepath                           v1.0.0                                go-module  
 github.com/minio/highwayhash                        v1.0.2                                go-module  
 github.com/minio/kes-go                             v0.2.0                                go-module  
-github.com/minio/madmin-go/v3                       v3.0.11                               go-module  
+github.com/minio/madmin-go/v3                       v3.0.17                               go-module  
 github.com/minio/mc                                 v0.0.0-20230726035150-6b8680a2f7ca    go-module  
 github.com/minio/md5-simd                           v1.1.2                                go-module  
 github.com/minio/minio                              (devel)                               go-module  
@@ -185,7 +185,7 @@ github.com/rjeczalik/notify                         v0.9.3                      
 github.com/rs/cors                                  v1.9.0                                go-module  
 github.com/rs/xid                                   v1.5.0                                go-module  
 github.com/secure-io/sio-go                         v0.3.1                                go-module  
-github.com/shirou/gopsutil/v3                       v3.23.6                               go-module  
+github.com/shirou/gopsutil/v3                       v3.23.7                               go-module  
 github.com/tidwall/gjson                            v1.15.0                               go-module  
 github.com/tidwall/match                            v1.1.1                                go-module  
 github.com/tidwall/pretty                           v1.2.1                                go-module  
@@ -218,9 +218,9 @@ golang.org/x/time                                   v0.3.0                      
 golang.org/x/xerrors                                v0.0.0-20220907171357-04be3eba64a2    go-module  
 google.golang.org/api                               v0.134.0                              go-module  
 google.golang.org/appengine                         v1.6.7                                go-module  
-google.golang.org/genproto                          v0.0.0-20230726155614-23370e0ffb3e    go-module  
-google.golang.org/genproto/googleapis/api           v0.0.0-20230726155614-23370e0ffb3e    go-module  
-google.golang.org/genproto/googleapis/rpc           v0.0.0-20230726155614-23370e0ffb3e    go-module  
+google.golang.org/genproto                          v0.0.0-20230731193218-e0aa005b6bdf    go-module  
+google.golang.org/genproto/googleapis/api           v0.0.0-20230731193218-e0aa005b6bdf    go-module  
+google.golang.org/genproto/googleapis/rpc           v0.0.0-20230731193218-e0aa005b6bdf    go-module  
 google.golang.org/grpc                              v1.57.0                               go-module  
 google.golang.org/protobuf                          v1.31.0                               go-module  
 gopkg.in/h2non/filetype.v1                          v1.0.5                                go-module  
