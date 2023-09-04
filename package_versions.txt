@@ -125,7 +125,7 @@ github.com/matttproud/golang_protobuf_extensions    v1.0.4                      
 github.com/miekg/dns                                v1.1.55                               go-module  
 github.com/minio/cli                                v1.24.2                               go-module  
 github.com/minio/colorjson                          v1.0.5                                go-module  
-github.com/minio/console                            v0.37.0                               go-module  
+github.com/minio/console                            v0.38.0                               go-module  
 github.com/minio/csvparser                          v1.0.0                                go-module  
 github.com/minio/dnscache                           v0.1.1                                go-module  
 github.com/minio/dperf                              v0.5.0                                go-module  
@@ -133,12 +133,13 @@ github.com/minio/filepath                           v1.0.0                      
 github.com/minio/highwayhash                        v1.0.2                                go-module  
 github.com/minio/kes-go                             v0.2.0                                go-module  
 github.com/minio/madmin-go/v3                       v3.0.17                               go-module  
-github.com/minio/mc                                 v0.0.0-20230726035150-6b8680a2f7ca    go-module  
+github.com/minio/mc                                 v0.0.0-20230902212803-e2056fb05789    go-module  
 github.com/minio/md5-simd                           v1.1.2                                go-module  
 github.com/minio/minio                              (devel)                               go-module  
 github.com/minio/minio-go/v7                        v7.0.63                               go-module  
 github.com/minio/mux                                v1.9.0                                go-module  
 github.com/minio/pkg                                v1.7.5                                go-module  
+github.com/minio/pkg/v2                             v2.0.0                                go-module  
 github.com/minio/selfupdate                         v0.6.0                                go-module  
 github.com/minio/sha256-simd                        v1.0.1                                go-module  
 github.com/minio/simdjson-go                        v0.4.5                                go-module  
