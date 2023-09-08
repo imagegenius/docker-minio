@@ -132,7 +132,7 @@ github.com/minio/dperf                              v0.5.0                      
 github.com/minio/filepath                           v1.0.0                                go-module  
 github.com/minio/highwayhash                        v1.0.2                                go-module  
 github.com/minio/kes-go                             v0.2.0                                go-module  
-github.com/minio/madmin-go/v3                       v3.0.17                               go-module  
+github.com/minio/madmin-go/v3                       v3.0.18                               go-module  
 github.com/minio/mc                                 v0.0.0-20230902212803-e2056fb05789    go-module  
 github.com/minio/md5-simd                           v1.1.2                                go-module  
 github.com/minio/minio                              (devel)                               go-module  
