@@ -137,7 +137,7 @@ github.com/minio/madmin-go/v3                        v3.0.29                    
 github.com/minio/mc                                  v0.0.0-20231030184332-9f2fb2b6a9f8     go-module  
 github.com/minio/md5-simd                            v1.1.2                                 go-module  
 github.com/minio/minio                               (devel)                                go-module  
-github.com/minio/minio-go/v7                         v7.0.64-0.20230920204636-e783c9ba11b3  go-module  
+github.com/minio/minio-go/v7                         v7.0.64-0.20231119012610-6eebdd6d5eba  go-module  
 github.com/minio/mux                                 v1.9.0                                 go-module  
 github.com/minio/pkg                                 v1.7.5                                 go-module  
 github.com/minio/pkg/v2                              v2.0.3-0.20231107172951-8a60b89ec9b4   go-module  
