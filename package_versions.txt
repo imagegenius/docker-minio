@@ -20,6 +20,11 @@ coreutils                                            9.3-r1                     
 curl                                                 8.5.0-r0                               apk        
 github.com/Azure/azure-pipeline-go                   v0.2.3                                 go-module  
 github.com/Azure/azure-storage-blob-go               v0.15.0                                go-module  
+github.com/Azure/go-autorest/autorest                v0.11.29                               go-module  
+github.com/Azure/go-autorest/autorest/adal           v0.9.22                                go-module  
+github.com/Azure/go-autorest/autorest/date           v0.3.0                                 go-module  
+github.com/Azure/go-autorest/logger                  v0.2.1                                 go-module  
+github.com/Azure/go-autorest/tracing                 v0.6.0                                 go-module  
 github.com/Azure/go-ntlmssp                          v0.0.0-20221128193559-754e69321358     go-module  
 github.com/IBM/sarama                                v1.42.1                                go-module  
 github.com/VividCortex/ewma                          v1.2.0                                 go-module  
@@ -113,7 +118,7 @@ github.com/lestrrat-go/backoff/v2                    v2.0.8                     
 github.com/lestrrat-go/blackmagic                    v1.0.2                                 go-module  
 github.com/lestrrat-go/httpcc                        v1.0.1                                 go-module  
 github.com/lestrrat-go/iter                          v1.0.2                                 go-module  
-github.com/lestrrat-go/jwx                           v1.2.26                                go-module  
+github.com/lestrrat-go/jwx                           v1.2.27                                go-module  
 github.com/lestrrat-go/option                        v1.0.1                                 go-module  
 github.com/lib/pq                                    v1.10.9                                go-module  
 github.com/lithammer/shortuuid/v4                    v4.0.0                                 go-module  
@@ -136,7 +141,7 @@ github.com/minio/dperf                               v0.5.2                     
 github.com/minio/filepath                            v1.0.0                                 go-module  
 github.com/minio/highwayhash                         v1.0.2                                 go-module  
 github.com/minio/kes-go                              v0.2.0                                 go-module  
-github.com/minio/madmin-go/v3                        v3.0.36                                go-module  
+github.com/minio/madmin-go/v3                        v3.0.37-0.20231211192618-d20cff0b11d9  go-module  
 github.com/minio/mc                                  v0.0.0-20231127112613-5e6ae2172e25     go-module  
 github.com/minio/md5-simd                            v1.1.2                                 go-module  
 github.com/minio/minio                               (devel)                                go-module  
