@@ -239,7 +239,7 @@ gopkg.in/ini.v1                                      v1.67.0                    
 gopkg.in/square/go-jose.v2                           v2.6.0                                 go-module  
 gopkg.in/yaml.v2                                     v2.4.0                                 go-module  
 gopkg.in/yaml.v3                                     v3.0.1                                 go-module  
-jq                                                   1.6-r3                                 apk        
+jq                                                   1.6-r4                                 apk        
 libacl                                               2.3.1-r3                               apk        
 libattr                                              2.5.1-r4                               apk        
 libbsd                                               0.11.7-r1                              apk        
