@@ -144,13 +144,13 @@ github.com/minio/dperf                                                       v0.
 github.com/minio/filepath                                                    v1.0.0                                go-module  
 github.com/minio/highwayhash                                                 v1.0.2                                go-module  
 github.com/minio/kes-go                                                      v0.2.0                                go-module  
-github.com/minio/madmin-go/v3                                                v3.0.40                               go-module  
-github.com/minio/mc                                                          v0.0.0-20240111054932-d4305a5bf95e    go-module  
+github.com/minio/madmin-go/v3                                                v3.0.43                               go-module  
+github.com/minio/mc                                                          v0.0.0-20240129194012-12f446e1de57    go-module  
 github.com/minio/md5-simd                                                    v1.1.2                                go-module  
 github.com/minio/minio                                                       (devel)                               go-module  
 github.com/minio/minio-go/v7                                                 v7.0.66                               go-module  
 github.com/minio/mux                                                         v1.9.0                                go-module  
-github.com/minio/pkg/v2                                                      v2.0.8                                go-module  
+github.com/minio/pkg/v2                                                      v2.0.9-0.20240130164631-ac3f1be23e94  go-module  
 github.com/minio/selfupdate                                                  v0.6.0                                go-module  
 github.com/minio/sha256-simd                                                 v1.0.1                                go-module  
 github.com/minio/simdjson-go                                                 v0.4.5                                go-module  
@@ -198,7 +198,7 @@ github.com/rs/cors                                                           v1.
 github.com/rs/xid                                                            v1.5.0                                go-module  
 github.com/safchain/ethtool                                                  v0.3.0                                go-module  
 github.com/secure-io/sio-go                                                  v0.3.1                                go-module  
-github.com/shirou/gopsutil/v3                                                v3.23.11                              go-module  
+github.com/shirou/gopsutil/v3                                                v3.24.1                               go-module  
 github.com/tidwall/gjson                                                     v1.17.0                               go-module  
 github.com/tidwall/match                                                     v1.1.1                                go-module  
 github.com/tidwall/pretty                                                    v1.2.1                                go-module  
