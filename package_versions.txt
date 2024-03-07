@@ -241,7 +241,7 @@ google.golang.org/genproto                                                   v0.
 google.golang.org/genproto/googleapis/api                                    v0.0.0-20240205150955-31a09d347014    go-module    
 google.golang.org/genproto/googleapis/rpc                                    v0.0.0-20240205150955-31a09d347014    go-module    
 google.golang.org/grpc                                                       v1.61.0                               go-module    
-google.golang.org/protobuf                                                   v1.32.0                               go-module    
+google.golang.org/protobuf                                                   v1.33.0                               go-module    
 gopkg.in/h2non/filetype.v1                                                   v1.0.5                                go-module    
 gopkg.in/ini.v1                                                              v1.67.0                               go-module    
 gopkg.in/square/go-jose.v2                                                   v2.6.0                                go-module    
