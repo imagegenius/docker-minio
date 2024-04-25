@@ -47,5 +47,6 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "25.04.24:", desc: "rebase to alpine 3.19" }
   - { date: "21.03.23:", desc: "Add service checks" }
   - { date: "29.01.23:", desc: "Initial release." }
