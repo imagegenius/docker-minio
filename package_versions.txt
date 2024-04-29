@@ -86,6 +86,7 @@ github.com/go-sql-driver/mysql                                               v1.
 github.com/gobwas/httphead                                                   v0.1.0                                go-module    
 github.com/gobwas/pool                                                       v0.2.1                                go-module    
 github.com/gobwas/ws                                                         v1.3.2                                go-module    
+github.com/goccy/go-json                                                     v0.10.2                               go-module    
 github.com/gogo/protobuf                                                     v1.3.2                                go-module    
 github.com/golang-jwt/jwt/v4                                                 v4.5.0                                go-module    
 github.com/golang/groupcache                                                 v0.0.0-20210331224755-41bb18bfe9da    go-module    
@@ -140,7 +141,7 @@ github.com/matttproud/golang_protobuf_extensions                             v1.
 github.com/miekg/dns                                                         v1.1.58                               go-module    
 github.com/minio/cli                                                         v1.24.2                               go-module    
 github.com/minio/colorjson                                                   v1.0.6                                go-module    
-github.com/minio/console                                                     v1.2.0                                go-module    
+github.com/minio/console                                                     v1.3.0                                go-module    
 github.com/minio/csvparser                                                   v1.0.0                                go-module    
 github.com/minio/dnscache                                                    v0.1.1                                go-module    
 github.com/minio/dperf                                                       v0.5.3                                go-module    
@@ -148,14 +149,13 @@ github.com/minio/filepath                                                    v1.
 github.com/minio/highwayhash                                                 v1.0.2                                go-module    
 github.com/minio/kms-go/kes                                                  v0.3.0                                go-module    
 github.com/minio/madmin-go/v3                                                v3.0.50                               go-module    
-github.com/minio/mc                                                          v0.0.0-20240415151025-fe58afcd39a7    go-module    
+github.com/minio/mc                                                          v0.0.0-20240425223512-5dfaa31d67be    go-module    
 github.com/minio/md5-simd                                                    v1.1.2                                go-module    
 github.com/minio/minio                                                       (devel)                               go-module    
-github.com/minio/minio-go/v7                                                 v7.0.69                               go-module    
+github.com/minio/minio-go/v7                                                 v7.0.70                               go-module    
 github.com/minio/mux                                                         v1.9.0                                go-module    
 github.com/minio/pkg/v2                                                      v2.0.17                               go-module    
 github.com/minio/selfupdate                                                  v0.6.0                                go-module    
-github.com/minio/sha256-simd                                                 v1.0.1                                go-module    
 github.com/minio/simdjson-go                                                 v0.4.5                                go-module    
 github.com/minio/sio                                                         v0.3.1                                go-module    
 github.com/minio/websocket                                                   v1.6.0                                go-module    
