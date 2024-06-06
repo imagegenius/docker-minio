@@ -55,7 +55,7 @@ github.com/charmbracelet/x/input                                             v0.
 github.com/charmbracelet/x/term                                              v0.1.1                                 go-module    
 github.com/cheggaaa/pb                                                       v1.0.29                                go-module    
 github.com/coredns/coredns                                                   v1.11.3                                go-module    
-github.com/coreos/go-oidc                                                    v2.2.1+incompatible                    go-module    
+github.com/coreos/go-oidc/v3                                                 v3.10.0                                go-module    
 github.com/coreos/go-semver                                                  v0.3.1                                 go-module    
 github.com/coreos/go-systemd/v22                                             v22.5.0                                go-module    
 github.com/cosnicolaou/pbzip2                                                v1.0.3                                 go-module    
@@ -75,6 +75,7 @@ github.com/felixge/fgprof                                                    v0.
 github.com/felixge/httpsnoop                                                 v1.0.4                                 go-module    
 github.com/fraugster/parquet-go                                              v0.12.0                                go-module    
 github.com/go-asn1-ber/asn1-ber                                              v1.5.7                                 go-module    
+github.com/go-jose/go-jose/v4                                                v4.0.1                                 go-module    
 github.com/go-ldap/ldap/v3                                                   v3.4.8                                 go-module    
 github.com/go-logr/logr                                                      v1.4.2                                 go-module    
 github.com/go-logr/stdr                                                      v1.2.2                                 go-module    
@@ -192,7 +193,6 @@ github.com/pkg/errors                                                        v0.
 github.com/pkg/sftp                                                          v1.13.6                                go-module    
 github.com/pkg/xattr                                                         v0.4.9                                 go-module    
 github.com/posener/complete                                                  v1.2.3                                 go-module    
-github.com/pquerna/cachecontrol                                              v0.2.0                                 go-module    
 github.com/prometheus/client_golang                                          v1.19.1                                go-module    
 github.com/prometheus/client_model                                           v0.6.1                                 go-module    
 github.com/prometheus/common                                                 v0.54.0                                go-module    
@@ -251,7 +251,6 @@ google.golang.org/genproto/googleapis/rpc                                    v0.
 google.golang.org/grpc                                                       v1.64.0                                go-module    
 google.golang.org/protobuf                                                   v1.34.1                                go-module    
 gopkg.in/ini.v1                                                              v1.67.0                                go-module    
-gopkg.in/square/go-jose.v2                                                   v2.6.0                                 go-module    
 gopkg.in/yaml.v2                                                             v2.4.0                                 go-module    
 gopkg.in/yaml.v3                                                             v3.0.1                                 go-module    
 jq                                                                           1.7.1-r0                               apk          
