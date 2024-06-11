@@ -147,7 +147,7 @@ github.com/matttproud/golang_protobuf_extensions                             v1.
 github.com/miekg/dns                                                         v1.1.59                                go-module    
 github.com/minio/cli                                                         v1.24.2                                go-module    
 github.com/minio/colorjson                                                   v1.0.8                                 go-module    
-github.com/minio/console                                                     v1.4.1                                 go-module    
+github.com/minio/console                                                     v1.5.0                                 go-module    
 github.com/minio/csvparser                                                   v1.0.0                                 go-module    
 github.com/minio/dnscache                                                    v0.1.1                                 go-module    
 github.com/minio/dperf                                                       v0.5.3                                 go-module    
@@ -156,10 +156,10 @@ github.com/minio/highwayhash                                                 v1.
 github.com/minio/kms-go/kes                                                  v0.3.0                                 go-module    
 github.com/minio/kms-go/kms                                                  v0.4.0                                 go-module    
 github.com/minio/madmin-go/v3                                                v3.0.55-0.20240603092915-420a67132c32  go-module    
-github.com/minio/mc                                                          v0.0.0-20240601150335-3cfa8642fdab     go-module    
+github.com/minio/mc                                                          v0.0.0-20240605181330-17adf0abbbca     go-module    
 github.com/minio/md5-simd                                                    v1.1.2                                 go-module    
 github.com/minio/minio                                                       (devel)                                go-module    
-github.com/minio/minio-go/v7                                                 v7.0.70                                go-module    
+github.com/minio/minio-go/v7                                                 v7.0.72-0.20240610154810-fa174cbf14b0  go-module    
 github.com/minio/mux                                                         v1.9.0                                 go-module    
 github.com/minio/pkg/v2                                                      v2.0.19                                go-module    
 github.com/minio/pkg/v3                                                      v3.0.1                                 go-module    
@@ -237,7 +237,7 @@ go.uber.org/zap                                                              v1.
 goftp.io/server/v2                                                           v2.0.1                                 go-module    
 golang.org/x/crypto                                                          v0.24.0                                go-module    
 golang.org/x/exp                                                             v0.0.0-20240531132922-fd00a4e0eefc     go-module    
-golang.org/x/net                                                             v0.25.0                                go-module    
+golang.org/x/net                                                             v0.26.0                                go-module    
 golang.org/x/oauth2                                                          v0.21.0                                go-module    
 golang.org/x/sync                                                            v0.7.0                                 go-module    
 golang.org/x/sys                                                             v0.21.0                                go-module    
@@ -246,8 +246,8 @@ golang.org/x/text                                                            v0.
 golang.org/x/time                                                            v0.5.0                                 go-module    
 google.golang.org/api                                                        v0.182.0                               go-module    
 google.golang.org/genproto                                                   v0.0.0-20240528184218-531527333157     go-module    
-google.golang.org/genproto/googleapis/api                                    v0.0.0-20240528184218-531527333157     go-module    
-google.golang.org/genproto/googleapis/rpc                                    v0.0.0-20240528184218-531527333157     go-module    
+google.golang.org/genproto/googleapis/api                                    v0.0.0-20240604185151-ef581f913117     go-module    
+google.golang.org/genproto/googleapis/rpc                                    v0.0.0-20240604185151-ef581f913117     go-module    
 google.golang.org/grpc                                                       v1.64.0                                go-module    
 google.golang.org/protobuf                                                   v1.34.1                                go-module    
 gopkg.in/ini.v1                                                              v1.67.0                                go-module    
