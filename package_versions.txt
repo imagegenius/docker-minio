@@ -128,7 +128,7 @@ github.com/klauspost/cpuid/v2                                                v2.
 github.com/klauspost/filepathx                                               v1.1.1                                go-module    
 github.com/klauspost/pgzip                                                   v1.2.6                                go-module    
 github.com/klauspost/readahead                                               v1.4.0                                go-module    
-github.com/klauspost/reedsolomon                                             v1.12.2                               go-module    
+github.com/klauspost/reedsolomon                                             v1.12.3                               go-module    
 github.com/kr/fs                                                             v0.1.0                                go-module    
 github.com/lestrrat-go/backoff/v2                                            v2.0.8                                go-module    
 github.com/lestrrat-go/blackmagic                                            v1.0.2                                go-module    
@@ -163,7 +163,7 @@ github.com/minio/minio                                                       (de
 github.com/minio/minio-go/v7                                                 v7.0.73                               go-module    
 github.com/minio/mux                                                         v1.9.0                                go-module    
 github.com/minio/pkg/v2                                                      v2.0.19                               go-module    
-github.com/minio/pkg/v3                                                      v3.0.7                                go-module    
+github.com/minio/pkg/v3                                                      v3.0.8                                go-module    
 github.com/minio/selfupdate                                                  v0.6.0                                go-module    
 github.com/minio/simdjson-go                                                 v0.4.5                                go-module    
 github.com/minio/sio                                                         v0.4.0                                go-module    
