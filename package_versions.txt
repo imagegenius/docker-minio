@@ -208,7 +208,7 @@ github.com/shirou/gopsutil/v3                                                v3.
 github.com/tidwall/gjson                                                     v1.17.3                               go-module    
 github.com/tidwall/match                                                     v1.1.1                                go-module    
 github.com/tidwall/pretty                                                    v1.2.1                                go-module    
-github.com/tinylib/msgp                                                      v1.2.2                                go-module    
+github.com/tinylib/msgp                                                      v1.2.3-0.20241022140105-4558fbf3a223  go-module    
 github.com/tklauser/go-sysconf                                               v0.3.14                               go-module    
 github.com/tklauser/numcpus                                                  v0.8.0                                go-module    
 github.com/unrolled/secure                                                   v1.15.0                               go-module    
