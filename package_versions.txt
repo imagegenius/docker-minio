@@ -90,7 +90,7 @@ github.com/gobwas/pool                                                       v0.
 github.com/gobwas/ws                                                         v1.4.0                                go-module    
 github.com/goccy/go-json                                                     v0.10.3                               go-module    
 github.com/gogo/protobuf                                                     v1.3.2                                go-module    
-github.com/golang-jwt/jwt/v4                                                 v4.5.0                                go-module    
+github.com/golang-jwt/jwt/v4                                                 v4.5.1                                go-module    
 github.com/golang-jwt/jwt/v5                                                 v5.2.1                                go-module    
 github.com/golang/groupcache                                                 v0.0.0-20210331224755-41bb18bfe9da    go-module    
 github.com/golang/protobuf                                                   v1.5.4                                go-module    
@@ -143,7 +143,7 @@ github.com/matttproud/golang_protobuf_extensions                             v1.
 github.com/miekg/dns                                                         v1.1.62                               go-module    
 github.com/minio/cli                                                         v1.24.2                               go-module    
 github.com/minio/colorjson                                                   v1.0.8                                go-module    
-github.com/minio/console                                                     v1.7.1                                go-module    
+github.com/minio/console                                                     v1.7.3                                go-module    
 github.com/minio/csvparser                                                   v1.0.0                                go-module    
 github.com/minio/dnscache                                                    v0.1.1                                go-module    
 github.com/minio/dperf                                                       v0.6.0                                go-module    
@@ -157,7 +157,7 @@ github.com/minio/md5-simd                                                    v1.
 github.com/minio/minio                                                       (devel)                               go-module    
 github.com/minio/minio-go/v7                                                 v7.0.77                               go-module    
 github.com/minio/mux                                                         v1.9.0                                go-module    
-github.com/minio/pkg/v3                                                      v3.0.20                               go-module    
+github.com/minio/pkg/v3                                                      v3.0.22                               go-module    
 github.com/minio/selfupdate                                                  v0.6.0                                go-module    
 github.com/minio/simdjson-go                                                 v0.4.5                                go-module    
 github.com/minio/sio                                                         v0.4.1                                go-module    
