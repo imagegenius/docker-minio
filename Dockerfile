@@ -1,4 +1,4 @@
-FROM ghcr.io/imagegenius/baseimage-alpine:3.20
+FROM ghcr.io/imagegenius/baseimage-alpine:edge
 
 # set version label
 ARG BUILD_DATE
@@ -13,6 +13,9 @@ RUN \
     make \
     perl \
     git \
+    curl \
+    jq && \
+  apk add --no-cache \
     go && \
   echo "**** install minio ****" && \
   mkdir -p \
@@ -27,6 +30,9 @@ RUN \
     /tmp/minio.tar.gz -C \
     /tmp/minio --strip-components=1 && \
   cd /tmp/minio && \
+  export GOMODCACHE=/root/go/pkg/mod && \
+  export GOPATH=/root/go && \
+  export GOCACHE=/root/.cache/go-build && \
   make install && \
   mv \
     /root/go/bin/minio \
