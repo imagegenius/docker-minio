@@ -162,7 +162,7 @@ github.com/matttproud/golang_protobuf_extensions                                
 github.com/miekg/dns                                                                 v1.1.65                               go-module                   
 github.com/minio/cli                                                                 v1.24.2                               go-module                   
 github.com/minio/colorjson                                                           v1.0.8                                go-module                   
-github.com/minio/console                                                             v1.7.7-0.20250623221437-2595faf715ea  go-module                   
+github.com/minio/console                                                             v1.7.7-0.20250905210349-2017f33b26e1  go-module                   
 github.com/minio/crc64nvme                                                           v1.0.1                                go-module                   
 github.com/minio/csvparser                                                           v1.0.0                                go-module                   
 github.com/minio/dnscache                                                            v0.1.1                                go-module                   
