@@ -8,7 +8,7 @@ alpine-baselayout-data                                                          
 alpine-keys                                                                          2.5-r0                                apk                         
 apk-tools                                                                            2.14.9-r3                             apk                         
 bash                                                                                 5.2.37-r0                             apk                         
-binutils                                                                             2.45.1-r0                             apk                         
+binutils                                                                             2.45.1-r1                             apk                         
 brotli-libs                                                                          1.1.0-r2                              apk                         
 busybox                                                                              1.37.0-r18                            apk                         
 busybox-binsh                                                                        1.37.0-r18                            apk                         
