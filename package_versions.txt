@@ -273,7 +273,7 @@ google.golang.org/grpc                                                          
 google.golang.org/protobuf                                                           v1.36.6                               go-module                   
 gopkg.in/yaml.v2                                                                     v2.4.0                                go-module                   
 gopkg.in/yaml.v3                                                                     v3.0.1                                go-module                   
-isl26                                                                                0.26-r1                               apk                         
+isl26                                                                                0.26-r2                               apk                         
 jansson                                                                              2.15.0-r0                             apk                         
 jq                                                                                   1.8.0-r0                              apk                         
 libapk2                                                                              2.14.9-r3                             apk                         
