@@ -7,6 +7,10 @@ project_logo: "https://raw.githubusercontent.com/minio/minio/master/.github/logo
 project_blurb: "MinIO is a High Performance Object Storage released under GNU Affero General Public License v3.0. It is API compatible with Amazon S3 cloud storage service. Use MinIO to build high performance infrastructure for machine learning, analytics and application data workloads."
 project_github_repo_url: "https://github.com/imagegenius/docker-{{ project_name }}"
 
+project_deprecation_status: true
+project_deprecation_message: |
+  Minio no longer exists
+
 # supported architectures
 available_architectures:
   - { arch: "{{ arch_x86_64 }}", tag: "amd64-latest" }
